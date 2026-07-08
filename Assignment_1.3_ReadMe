@@ -2,6 +2,8 @@
 
 Team Members: Andy Song, Mugeng Cui, Eddie Panfil, Ishaan Krishnamurthy
 
+Time zones: Andy EST, Mugeng CST, Eddie PST, Ishaan ?
+
 Division of Work: Sections 1-3 + 9 + optional forest: Andy Song, Sections 4-6: Eddie Panfil, Sections 7,8,10: Mugeng Cui
 
 After using Random Forest and Regression, the bank should call the top 20% of people. This would boost the bank's success rate by 2.67x. 
